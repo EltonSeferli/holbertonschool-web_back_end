@@ -1,2 +1,0 @@
-// Count number of documents in db
-db.school.count()
